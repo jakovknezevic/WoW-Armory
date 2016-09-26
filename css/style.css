@@ -22,12 +22,18 @@
     width: 25em;
 }
 
+
+/* center and center1 are for buttons and textboxes that need to be centered... */
+
+
 .center {
     text-align: center;
+
 }
 
 .center1 {
-    float: right;
+    margin-top: 3em;
+    text-align: center;
 }
 
 

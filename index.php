@@ -1,4 +1,4 @@
-
+<?php require('check.php'); ?>
 <?php require('db.php'); ?>
 <!DOCTYPE html>
 
@@ -49,7 +49,6 @@
     </div>
 
     <div class="text">
-
 
 
         <p class="paragraph">
